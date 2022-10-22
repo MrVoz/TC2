@@ -1,0 +1,31 @@
+game.ReplicatedStorage.Taunts.Brute.melee.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Brute.secondary.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Brute.primary.Taunt.Duration.Value = 999999999
+
+game.ReplicatedStorage.Taunts.Flanker.melee.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Flanker.secondary.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Flanker.primary.Taunt.Duration.Value = 999999999
+
+game.ReplicatedStorage.Taunts.Trooper.melee.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Trooper.secondary.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Trooper.primary.Taunt.Duration.Value = 999999999
+
+game.ReplicatedStorage.Taunts.Arsonist.melee.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Arsonist.secondary.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Arsonist.primary.Taunt.Duration.Value = 999999999
+
+game.ReplicatedStorage.Taunts.Annihilator.melee.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Annihilator.secondary.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Annihilator.primary.Taunt.Duration.Value = 999999999
+
+game.ReplicatedStorage.Taunts.Mechanic.melee.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Mechanic.secondary.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Mechanic.primary.Taunt.Duration.Value = 999999999
+
+game.ReplicatedStorage.Taunts.Doctor.melee.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Doctor.secondary.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Doctor.primary.Taunt.Duration.Value = 999999999
+
+game.ReplicatedStorage.Taunts.Marksman.melee.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Marksman.secondary.Taunt.Duration.Value = 999999999
+game.ReplicatedStorage.Taunts.Marksman.primary.Taunt.Duration.Value = 999999999
